@@ -1,0 +1,2977 @@
+"info": [
+	{
+		"id": "219-0001281138-00",
+		"claimId": {
+			"displayLabel": "219-0001281138-00"
+		},
+		"product": {
+			"displayLabel": "Medical"
+		},
+		"patientName": {
+			"displayLabel": "Jonathan  Scott"
+		},
+		"provider": {
+			"displayLabel": "-"
+		},
+		"dateOfService": {
+			"displayLabel": "06-27-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "5000.0"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "10.0"
+		},
+		"planPaid": {
+			"displayLabel": "4990.0"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"document": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-27-2019"
+		}
+	},
+	{
+		"id": "219-0001280596-00",
+		"claimId": {
+			"displayLabel": "219-0001280596-00"
+		},
+		"product": {
+			"displayLabel": "Medical"
+		},
+		"patientName": {
+			"displayLabel": "Nicolas  Villegas"
+		},
+		"provider": {
+			"displayLabel": "-"
+		},
+		"dateOfService": {
+			"displayLabel": "06-27-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "3000.0"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "0.0"
+		},
+		"planPaid": {
+			"displayLabel": "0.0"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "inProcess",
+			"displayLabel": "In Process"
+		},
+		"stage": {
+			"type": "pricing",
+			"displayLabel": "Pricing"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"document": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-27-2019"
+		}
+	},
+	{
+		"id": "219-0001280597-00",
+		"claimId": {
+			"displayLabel": "219-0001280597-00"
+		},
+		"product": {
+			"displayLabel": "Medical"
+		},
+		"patientName": {
+			"displayLabel": "Jonathan  Scott"
+		},
+		"provider": {
+			"displayLabel": "-"
+		},
+		"dateOfService": {
+			"displayLabel": "06-27-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "5000.0"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "10.0"
+		},
+		"planPaid": {
+			"displayLabel": "4990.0"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"document": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-27-2019"
+		}
+	},
+	{
+		"id": "219-0001281139-00",
+		"claimId": {
+			"displayLabel": "219-0001281139-00"
+		},
+		"product": {
+			"displayLabel": "Medical"
+		},
+		"patientName": {
+			"displayLabel": "Jonathan  Scott"
+		},
+		"provider": {
+			"displayLabel": "-"
+		},
+		"dateOfService": {
+			"displayLabel": "06-27-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "7000.0"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "10.0"
+		},
+		"planPaid": {
+			"displayLabel": "6990.0"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "inProcess",
+			"displayLabel": "In Process"
+		},
+		"stage": {
+			"type": "review",
+			"displayLabel": "Review"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"document": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-27-2019"
+		}
+	},
+	{
+		"id": "219-0001280584-00",
+		"claimId": {
+			"displayLabel": "219-0001280584-00"
+		},
+		"product": {
+			"displayLabel": "Medical"
+		},
+		"patientName": {
+			"displayLabel": "Nicolas  Villegas"
+		},
+		"provider": {
+			"displayLabel": "-"
+		},
+		"dateOfService": {
+			"displayLabel": "06-26-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "2200.0"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "0.0"
+		},
+		"planPaid": {
+			"displayLabel": "0.0"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "inProcess",
+			"displayLabel": "In Process"
+		},
+		"stage": {
+			"type": "pricing",
+			"displayLabel": "Pricing"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"document": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-26-2019"
+		}
+	},
+	{
+		"id": "219-0001280583-00",
+		"claimId": {
+			"displayLabel": "219-0001280583-00"
+		},
+		"product": {
+			"displayLabel": "Medical"
+		},
+		"patientName": {
+			"displayLabel": "Nicolas  Villegas"
+		},
+		"provider": {
+			"displayLabel": "-"
+		},
+		"dateOfService": {
+			"displayLabel": "06-26-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "2100.0"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "0.0"
+		},
+		"planPaid": {
+			"displayLabel": "0.0"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "inProcess",
+			"displayLabel": "In Process"
+		},
+		"stage": {
+			"type": "pricing",
+			"displayLabel": "Pricing"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"document": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-26-2019"
+		}
+	},
+	{
+		"id": "219-0001280582-00",
+		"claimId": {
+			"displayLabel": "219-0001280582-00"
+		},
+		"product": {
+			"displayLabel": "Medical"
+		},
+		"patientName": {
+			"displayLabel": "Nicolas  Villegas"
+		},
+		"provider": {
+			"displayLabel": "-"
+		},
+		"dateOfService": {
+			"displayLabel": "06-25-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "2000.0"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "0.0"
+		},
+		"planPaid": {
+			"displayLabel": "0.0"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "inProcess",
+			"displayLabel": "In Process"
+		},
+		"stage": {
+			"type": "pricing",
+			"displayLabel": "Pricing"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"document": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-26-2019"
+		}
+	},
+	{
+		"id": "219-0001280580-00",
+		"claimId": {
+			"displayLabel": "219-0001280580-00"
+		},
+		"product": {
+			"displayLabel": "Medical"
+		},
+		"patientName": {
+			"displayLabel": "Shauna M Howell"
+		},
+		"provider": {
+			"displayLabel": "Drovidence Alaska Medical Cen"
+		},
+		"dateOfService": {
+			"displayLabel": "06-25-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "8264.5"
+		},
+		"discountAdjustment": {
+			"displayLabel": "4570.27"
+		},
+		"yourResponsibility": {
+			"displayLabel": "0.0"
+		},
+		"planPaid": {
+			"displayLabel": "3694.23"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"document": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-25-2019"
+		}
+	},
+	{
+		"id": "219-0001281143-00",
+		"claimId": {
+			"displayLabel": "219-0001281143-00"
+		},
+		"product": {
+			"displayLabel": "Medical"
+		},
+		"patientName": {
+			"displayLabel": "Brenda L Wilkie Hoeger"
+		},
+		"provider": {
+			"displayLabel": "Foreign, Misc & RX Providers"
+		},
+		"dateOfService": {
+			"displayLabel": "06-25-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "330.0"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "208.44"
+		},
+		"planPaid": {
+			"displayLabel": "121.56"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"document": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-27-2019"
+		}
+	},
+	{
+		"id": "219-0001280579-00",
+		"claimId": {
+			"displayLabel": "219-0001280579-00"
+		},
+		"product": {
+			"displayLabel": "Medical"
+		},
+		"patientName": {
+			"displayLabel": "Shauna M Howell"
+		},
+		"provider": {
+			"displayLabel": "Drovidence Alaska Medical Cen"
+		},
+		"dateOfService": {
+			"displayLabel": "06-24-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "7500.45"
+		},
+		"discountAdjustment": {
+			"displayLabel": "4147.75"
+		},
+		"yourResponsibility": {
+			"displayLabel": "0.0"
+		},
+		"planPaid": {
+			"displayLabel": "3352.7"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"document": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-25-2019"
+		}
+	},
+	{
+		"id": "219-0001280578-00",
+		"claimId": {
+			"displayLabel": "219-0001280578-00"
+		},
+		"product": {
+			"displayLabel": "Medical"
+		},
+		"patientName": {
+			"displayLabel": "Shauna M Howell"
+		},
+		"provider": {
+			"displayLabel": "Drovidence Alaska Medical Cen"
+		},
+		"dateOfService": {
+			"displayLabel": "06-23-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "12000.65"
+		},
+		"discountAdjustment": {
+			"displayLabel": "6636.36"
+		},
+		"yourResponsibility": {
+			"displayLabel": "0.0"
+		},
+		"planPaid": {
+			"displayLabel": "5364.29"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"document": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-25-2019"
+		}
+	},
+	{
+		"id": "219-0001280577-00",
+		"claimId": {
+			"displayLabel": "219-0001280577-00"
+		},
+		"product": {
+			"displayLabel": "Medical"
+		},
+		"patientName": {
+			"displayLabel": "Shauna M Howell"
+		},
+		"provider": {
+			"displayLabel": "Drovidence Alaska Medical Cen"
+		},
+		"dateOfService": {
+			"displayLabel": "06-22-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "1458.33"
+		},
+		"discountAdjustment": {
+			"displayLabel": "806.46"
+		},
+		"yourResponsibility": {
+			"displayLabel": "500.0"
+		},
+		"planPaid": {
+			"displayLabel": "151.87"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"document": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-25-2019"
+		}
+	},
+	{
+		"id": "219-0001280576-00",
+		"claimId": {
+			"displayLabel": "219-0001280576-00"
+		},
+		"product": {
+			"displayLabel": "Medical"
+		},
+		"patientName": {
+			"displayLabel": "Shauna M Howell"
+		},
+		"provider": {
+			"displayLabel": "Drovidence Alaska Medical Cen"
+		},
+		"dateOfService": {
+			"displayLabel": "06-21-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "3325.25"
+		},
+		"discountAdjustment": {
+			"displayLabel": "1838.86"
+		},
+		"yourResponsibility": {
+			"displayLabel": "622.19"
+		},
+		"planPaid": {
+			"displayLabel": "864.2"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"document": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-25-2019"
+		}
+	},
+	{
+		"id": "219-0001280575-00",
+		"claimId": {
+			"displayLabel": "219-0001280575-00"
+		},
+		"product": {
+			"displayLabel": "Medical"
+		},
+		"patientName": {
+			"displayLabel": "Shauna M Howell"
+		},
+		"provider": {
+			"displayLabel": "Drovidence Alaska Medical Cen"
+		},
+		"dateOfService": {
+			"displayLabel": "06-20-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "4500.0"
+		},
+		"discountAdjustment": {
+			"displayLabel": "2488.5"
+		},
+		"yourResponsibility": {
+			"displayLabel": "402.3"
+		},
+		"planPaid": {
+			"displayLabel": "1609.2"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"document": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-25-2019"
+		}
+	},
+	{
+		"id": "219-0001280574-00",
+		"claimId": {
+			"displayLabel": "219-0001280574-00"
+		},
+		"product": {
+			"displayLabel": "Medical"
+		},
+		"patientName": {
+			"displayLabel": "Shauna M Howell"
+		},
+		"provider": {
+			"displayLabel": "Drovidence Alaska Medical Cen"
+		},
+		"dateOfService": {
+			"displayLabel": "06-19-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "3600.75"
+		},
+		"discountAdjustment": {
+			"displayLabel": "1991.21"
+		},
+		"yourResponsibility": {
+			"displayLabel": "321.91"
+		},
+		"planPaid": {
+			"displayLabel": "1287.63"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"document": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-25-2019"
+		}
+	},
+	{
+		"id": "219-0001280573-00",
+		"claimId": {
+			"displayLabel": "219-0001280573-00"
+		},
+		"product": {
+			"displayLabel": "Medical"
+		},
+		"patientName": {
+			"displayLabel": "Shauna M Howell"
+		},
+		"provider": {
+			"displayLabel": "Drovidence Alaska Medical Cen"
+		},
+		"dateOfService": {
+			"displayLabel": "06-18-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "4000.0"
+		},
+		"discountAdjustment": {
+			"displayLabel": "3783.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "43.4"
+		},
+		"planPaid": {
+			"displayLabel": "173.6"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"document": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-25-2019"
+		}
+	},
+	{
+		"id": "219-0001280572-00",
+		"claimId": {
+			"displayLabel": "219-0001280572-00"
+		},
+		"product": {
+			"displayLabel": "Medical"
+		},
+		"patientName": {
+			"displayLabel": "Shauna M Howell"
+		},
+		"provider": {
+			"displayLabel": "Drovidence Alaska Medical Cen"
+		},
+		"dateOfService": {
+			"displayLabel": "06-17-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "3000.0"
+		},
+		"discountAdjustment": {
+			"displayLabel": "2783.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "43.4"
+		},
+		"planPaid": {
+			"displayLabel": "173.6"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"document": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-25-2019"
+		}
+	},
+	{
+		"id": "1916800008",
+		"claimId": {
+			"displayLabel": "1916800008"
+		},
+		"product": {
+			"displayLabel": "Medical"
+		},
+		"patientName": {
+			"displayLabel": "MANUAL  CHECKS"
+		},
+		"provider": {
+			"displayLabel": "AMERITAS LIFE INSURANCE CORP"
+		},
+		"dateOfService": {
+			"displayLabel": "06-17-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "2264.0"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "0.0"
+		},
+		"planPaid": {
+			"displayLabel": "2264.0"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916800007",
+		"claimId": {
+			"displayLabel": "1916800007"
+		},
+		"product": {
+			"displayLabel": "Medical"
+		},
+		"patientName": {
+			"displayLabel": "MANUAL  CHECKS"
+		},
+		"provider": {
+			"displayLabel": "AMERITAS LIFE INSURANCE CORP"
+		},
+		"dateOfService": {
+			"displayLabel": "06-17-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "950.95"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "0.0"
+		},
+		"planPaid": {
+			"displayLabel": "950.95"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916800001",
+		"claimId": {
+			"displayLabel": "1916800001"
+		},
+		"product": {
+			"displayLabel": "Medical"
+		},
+		"patientName": {
+			"displayLabel": "MANUAL  CHECKS"
+		},
+		"provider": {
+			"displayLabel": "AMERITAS LIFE INSURANCE CORP"
+		},
+		"dateOfService": {
+			"displayLabel": "06-17-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "680.0"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "0.0"
+		},
+		"planPaid": {
+			"displayLabel": "680.0"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916800003",
+		"claimId": {
+			"displayLabel": "1916800003"
+		},
+		"product": {
+			"displayLabel": "Medical"
+		},
+		"patientName": {
+			"displayLabel": "MANUAL  CHECKS"
+		},
+		"provider": {
+			"displayLabel": "AMERITAS LIFE INSURANCE CORP"
+		},
+		"dateOfService": {
+			"displayLabel": "06-17-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "778.0"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "0.0"
+		},
+		"planPaid": {
+			"displayLabel": "778.0"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916806758",
+		"claimId": {
+			"displayLabel": "1916806758"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "JAMEE  BARMAN"
+		},
+		"provider": {
+			"displayLabel": "NAVITUS PBM"
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "2.8"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "2.8"
+		},
+		"planPaid": {
+			"displayLabel": "0.0"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916806759",
+		"claimId": {
+			"displayLabel": "1916806759"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "LEIGH  FAHLQUIST"
+		},
+		"provider": {
+			"displayLabel": "NAVITUS PBM"
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "8.0"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "8.0"
+		},
+		"planPaid": {
+			"displayLabel": "0.0"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916806723",
+		"claimId": {
+			"displayLabel": "1916806723"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "AMY  BIRKELO"
+		},
+		"provider": {
+			"displayLabel": "NAVITUS PBM"
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "16.36"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "10.0"
+		},
+		"planPaid": {
+			"displayLabel": "6.36"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916804843",
+		"claimId": {
+			"displayLabel": "1916804843"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "LILY  GNAUCK"
+		},
+		"provider": {
+			"displayLabel": "MAGELLAN RX MANAGEMENT        "
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "2036.74"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "0.0"
+		},
+		"planPaid": {
+			"displayLabel": "2036.74"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "06-18-2019"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "paid",
+			"displayLabel": "Paid"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"eob": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916804859",
+		"claimId": {
+			"displayLabel": "1916804859"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "JAYDEN  WIRKUS"
+		},
+		"provider": {
+			"displayLabel": "MAGELLAN RX MANAGEMENT        "
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "4.5"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "0.9"
+		},
+		"planPaid": {
+			"displayLabel": "3.6"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "06-18-2019"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "paid",
+			"displayLabel": "Paid"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"eob": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916804860",
+		"claimId": {
+			"displayLabel": "1916804860"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "EFFIE  ROMA"
+		},
+		"provider": {
+			"displayLabel": "MAGELLAN RX MANAGEMENT        "
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "106.95"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "32.09"
+		},
+		"planPaid": {
+			"displayLabel": "74.86"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "06-18-2019"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "paid",
+			"displayLabel": "Paid"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"eob": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916806690",
+		"claimId": {
+			"displayLabel": "1916806690"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "RONDA  WHITMER"
+		},
+		"provider": {
+			"displayLabel": "NAVITUS PBM"
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "27.31"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "10.0"
+		},
+		"planPaid": {
+			"displayLabel": "17.31"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916806706",
+		"claimId": {
+			"displayLabel": "1916806706"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "NENA  VANDERSLOOT"
+		},
+		"provider": {
+			"displayLabel": "NAVITUS PBM"
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "3.09"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "0.0"
+		},
+		"planPaid": {
+			"displayLabel": "3.09"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916806707",
+		"claimId": {
+			"displayLabel": "1916806707"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "KATHY  TERBOVITZ"
+		},
+		"provider": {
+			"displayLabel": "NAVITUS PBM"
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "7.53"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "0.0"
+		},
+		"planPaid": {
+			"displayLabel": "7.53"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916806749",
+		"claimId": {
+			"displayLabel": "1916806749"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "MONICA  HANCOCK"
+		},
+		"provider": {
+			"displayLabel": "NAVITUS PBM"
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "5.59"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "5.59"
+		},
+		"planPaid": {
+			"displayLabel": "0.0"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916806771",
+		"claimId": {
+			"displayLabel": "1916806771"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "HILLARY  CORSON"
+		},
+		"provider": {
+			"displayLabel": "NAVITUS PBM"
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "6.69"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "6.69"
+		},
+		"planPaid": {
+			"displayLabel": "0.0"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916804848",
+		"claimId": {
+			"displayLabel": "1916804848"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "ZOE  VAN DER WEIDE"
+		},
+		"provider": {
+			"displayLabel": "MAGELLAN RX MANAGEMENT        "
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "39.76"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "7.95"
+		},
+		"planPaid": {
+			"displayLabel": "31.81"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "06-18-2019"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "paid",
+			"displayLabel": "Paid"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"eob": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916804862",
+		"claimId": {
+			"displayLabel": "1916804862"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "ALLISON  DEWS"
+		},
+		"provider": {
+			"displayLabel": "MAGELLAN RX MANAGEMENT        "
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "8.73"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "1.75"
+		},
+		"planPaid": {
+			"displayLabel": "6.98"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "06-18-2019"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "paid",
+			"displayLabel": "Paid"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"eob": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916805940",
+		"claimId": {
+			"displayLabel": "1916805940"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "SUSAN  REICHERT"
+		},
+		"provider": {
+			"displayLabel": "NAVITUS PBM"
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "22.28"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "0.0"
+		},
+		"planPaid": {
+			"displayLabel": "22.28"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916806766",
+		"claimId": {
+			"displayLabel": "1916806766"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "BAYLIE  WETCH"
+		},
+		"provider": {
+			"displayLabel": "NAVITUS PBM"
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "15.1"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "10.0"
+		},
+		"planPaid": {
+			"displayLabel": "5.1"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916806728",
+		"claimId": {
+			"displayLabel": "1916806728"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "CLAYTON  WALDORF"
+		},
+		"provider": {
+			"displayLabel": "NAVITUS PBM"
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "4.6"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "4.6"
+		},
+		"planPaid": {
+			"displayLabel": "0.0"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916805172",
+		"claimId": {
+			"displayLabel": "1916805172"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "CHERYL  HERZINGER"
+		},
+		"provider": {
+			"displayLabel": "MAGELLAN RX MANAGEMENT        "
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "4.93"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "4.93"
+		},
+		"planPaid": {
+			"displayLabel": "0.0"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916806741",
+		"claimId": {
+			"displayLabel": "1916806741"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "KARI  KALOUS"
+		},
+		"provider": {
+			"displayLabel": "NAVITUS PBM"
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "9.24"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "9.24"
+		},
+		"planPaid": {
+			"displayLabel": "0.0"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916806775",
+		"claimId": {
+			"displayLabel": "1916806775"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "BAILEY  KUFELD"
+		},
+		"provider": {
+			"displayLabel": "NAVITUS PBM"
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "52.04"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "0.0"
+		},
+		"planPaid": {
+			"displayLabel": "52.04"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916804825",
+		"claimId": {
+			"displayLabel": "1916804825"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "DWAYNE  THRAMER"
+		},
+		"provider": {
+			"displayLabel": "MAGELLAN RX MANAGEMENT        "
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "896.73"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "0.0"
+		},
+		"planPaid": {
+			"displayLabel": "896.73"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916804822",
+		"claimId": {
+			"displayLabel": "1916804822"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "NACONA  GREENE"
+		},
+		"provider": {
+			"displayLabel": "MAGELLAN RX MANAGEMENT        "
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "6.32"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "0.0"
+		},
+		"planPaid": {
+			"displayLabel": "6.32"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "06-18-2019"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "paid",
+			"displayLabel": "Paid"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"eob": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916806726",
+		"claimId": {
+			"displayLabel": "1916806726"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "BRIAN  HETTICK"
+		},
+		"provider": {
+			"displayLabel": "NAVITUS PBM"
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "8.41"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "8.41"
+		},
+		"planPaid": {
+			"displayLabel": "0.0"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "219-0001280571-00",
+		"claimId": {
+			"displayLabel": "219-0001280571-00"
+		},
+		"product": {
+			"displayLabel": "Medical"
+		},
+		"patientName": {
+			"displayLabel": "Shauna M Howell"
+		},
+		"provider": {
+			"displayLabel": "Drovidence Alaska Medical Cen"
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "2500.0"
+		},
+		"discountAdjustment": {
+			"displayLabel": "2283.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "43.4"
+		},
+		"planPaid": {
+			"displayLabel": "173.6"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"document": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-25-2019"
+		}
+	},
+	{
+		"id": "1916806747",
+		"claimId": {
+			"displayLabel": "1916806747"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "CASANDRA  SPRINGER"
+		},
+		"provider": {
+			"displayLabel": "NAVITUS PBM"
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "12.84"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "0.0"
+		},
+		"planPaid": {
+			"displayLabel": "12.84"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916804823",
+		"claimId": {
+			"displayLabel": "1916804823"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "LAURIE  THRAMER"
+		},
+		"provider": {
+			"displayLabel": "MAGELLAN RX MANAGEMENT        "
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "4.13"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "0.0"
+		},
+		"planPaid": {
+			"displayLabel": "4.13"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "06-18-2019"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "paid",
+			"displayLabel": "Paid"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"eob": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916805515",
+		"claimId": {
+			"displayLabel": "1916805515"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "JULIE  AVERY"
+		},
+		"provider": {
+			"displayLabel": "MAGELLAN RX MANAGEMENT        "
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "14.06"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "5.0"
+		},
+		"planPaid": {
+			"displayLabel": "9.06"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916806708",
+		"claimId": {
+			"displayLabel": "1916806708"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "LORA  HANSON"
+		},
+		"provider": {
+			"displayLabel": "NAVITUS PBM"
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "6.17"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "0.0"
+		},
+		"planPaid": {
+			"displayLabel": "6.17"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916806719",
+		"claimId": {
+			"displayLabel": "1916806719"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "PAMELA  WILHELM"
+		},
+		"provider": {
+			"displayLabel": "NAVITUS PBM"
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "9.02"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "9.02"
+		},
+		"planPaid": {
+			"displayLabel": "0.0"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	},
+	{
+		"id": "1916806746",
+		"claimId": {
+			"displayLabel": "1916806746"
+		},
+		"product": {
+			"displayLabel": "Pharmacy"
+		},
+		"patientName": {
+			"displayLabel": "BARBARA  BURTON"
+		},
+		"provider": {
+			"displayLabel": "NAVITUS PBM"
+		},
+		"dateOfService": {
+			"displayLabel": "06-16-2019"
+		},
+		"amountBilled": {
+			"displayLabel": "8.75"
+		},
+		"discountAdjustment": {
+			"displayLabel": "0.0"
+		},
+		"yourResponsibility": {
+			"displayLabel": "0.0"
+		},
+		"planPaid": {
+			"displayLabel": "8.75"
+		},
+		"checkNumbers": {
+			"displayLabel": "-"
+		},
+		"checkIssueDate": {
+			"displayLabel": "-"
+		},
+		"state": {
+			"type": "completed",
+			"displayLabel": "Completed"
+		},
+		"stage": {
+			"type": "approved",
+			"displayLabel": "Approved"
+		},
+		"paymentMode": {
+			"displayLabel": "-"
+		},
+		"ineligibleAmount": {
+			"displayLabel": "0.0"
+		},
+		"quickActionsStatus": {
+			"download": true,
+			"inquiry": true,
+			"appeal": false,
+			"eop": false
+		},
+		"recievedDate": {
+			"displayLabel": "06-17-2019"
+		}
+	}
+],
