@@ -1,60 +1,64 @@
 {
-	"id": "219-0001341829-00",
-	"claimId": {
-		"displayLabel": "219-0001341829-00"
-	},
-	"product": {
-		"displayLabel": "Medical"
-	},
-	"patientName": {
-		"displayLabel": "Allison  Larson"
-	},
-	"provider": {
-		"displayLabel": "Elizabeth Sandberg"
-	},
-	"dateOfService": {
-		"displayLabel": "06-13-2019"
-	},
-	"amountBilled": {
-		"displayLabel": "187.0"
-	},
-	"discountAdjustment": {
-		"displayLabel": "0.0"
-	},
-	"yourResponsibility": {
-		"displayLabel": "0.0"
-	},
-	"planPaid": {
-		"displayLabel": "0.0"
-	},
-	"checkNumbers": {
-		"displayLabel": "-"
-	},
-	"checkIssueDate": {
-		"displayLabel": "-"
-	},
-	"state": {
-		"type": "inProcess",
-		"displayLabel": "In Process"
-	},
-	"stage": {
-		"type": "pricing",
-		"displayLabel": "Pricing"
-	},
-	"paymentMode": {
-		"displayLabel": "-"
-	},
-	"ineligibleAmount": {
-		"displayLabel": "0.0"
-	},
-	"quickActionsStatus": {
-		"download": true,
-		"inquiry": true,
-		"document": true,
-		"appeal": false,
-		"eop": false
-	},
-	"recievedDate": {
-		"displayLabel": "06-19-2019"
-	}
+	"info": [
+		{
+			"id": "219-0001341829-00",
+			"claimId": {
+				"displayLabel": "219-0001341829-00"
+			},
+			"product": {
+				"displayLabel": "Medical"
+			},
+			"patientName": {
+				"displayLabel": "Allison  Larson"
+			},
+			"provider": {
+				"displayLabel": "Elizabeth Sandberg"
+			},
+			"dateOfService": {
+				"displayLabel": "06-13-2019"
+			},
+			"amountBilled": {
+				"displayLabel": "187.0"
+			},
+			"discountAdjustment": {
+				"displayLabel": "0.0"
+			},
+			"yourResponsibility": {
+				"displayLabel": "0.0"
+			},
+			"planPaid": {
+				"displayLabel": "0.0"
+			},
+			"checkNumbers": {
+				"displayLabel": "-"
+			},
+			"checkIssueDate": {
+				"displayLabel": "-"
+			},
+			"state": {
+				"type": "inProcess",
+				"displayLabel": "In Process"
+			},
+			"stage": {
+				"type": "pricing",
+				"displayLabel": "Pricing"
+			},
+			"paymentMode": {
+				"displayLabel": "-"
+			},
+			"ineligibleAmount": {
+				"displayLabel": "0.0"
+			},
+			"quickActionsStatus": {
+				"download": true,
+				"inquiry": true,
+				"document": true,
+				"appeal": false,
+				"eop": false
+			},
+			"recievedDate": {
+				"displayLabel": "06-19-2019"
+			}
+		}
+	]
 }
