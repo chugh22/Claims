@@ -127,5 +127,10 @@ public class Claim {
 	public void setRecievedDate(RecievedDate recievedDate) {
 		this.recievedDate = recievedDate;
 	}
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return id ;
+	}
 	
 }
