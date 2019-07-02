@@ -1,0 +1,3006 @@
+"info": [
+                        {
+                            "id": "219-0001341829-00",
+                            "claimId": {
+                                "displayLabel": "219-0001341829-00"
+                            },
+                            "product": {
+                                "displayLabel": "Medical"
+                            },
+                            "patientName": {
+                                "displayLabel": "Allison  Larson"
+                            },
+                            "provider": {
+                                "displayLabel": "Elizabeth Sandberg"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-13-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "187.0"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "0.0"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "inProcess",
+                                "displayLabel": "In Process"
+                            },
+                            "stage": {
+                                "type": "pricing",
+                                "displayLabel": "Pricing"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-19-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336486-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336486-00"
+                            },
+                            "product": {
+                                "displayLabel": "Pharmacy"
+                            },
+                            "patientName": {
+                                "displayLabel": "Beth A Vonasek Juarez"
+                            },
+                            "provider": {
+                                "displayLabel": "Navitus Health Solutions"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-13-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "5.01"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "5.01"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "approved",
+                                "displayLabel": "Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336487-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336487-00"
+                            },
+                            "product": {
+                                "displayLabel": "Pharmacy"
+                            },
+                            "patientName": {
+                                "displayLabel": "Ma Kelsey  Hurst"
+                            },
+                            "provider": {
+                                "displayLabel": "Navitus Health Solutions"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-13-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "5.37"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "2.68"
+                            },
+                            "planPaid": {
+                                "displayLabel": "2.69"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "approved",
+                                "displayLabel": "Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336491-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336491-00"
+                            },
+                            "product": {
+                                "displayLabel": "Pharmacy"
+                            },
+                            "patientName": {
+                                "displayLabel": "Debbie  Gutknecht"
+                            },
+                            "provider": {
+                                "displayLabel": "Navitus Health Solutions"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-13-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "32.27"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "16.13"
+                            },
+                            "planPaid": {
+                                "displayLabel": "16.14"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "approved",
+                                "displayLabel": "Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336495-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336495-00"
+                            },
+                            "product": {
+                                "displayLabel": "Pharmacy"
+                            },
+                            "patientName": {
+                                "displayLabel": "Elaine  Nikle"
+                            },
+                            "provider": {
+                                "displayLabel": "Navitus Health Solutions"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-13-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "3834.03"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "1917.01"
+                            },
+                            "planPaid": {
+                                "displayLabel": "1917.02"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "approved",
+                                "displayLabel": "Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336479-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336479-00"
+                            },
+                            "product": {
+                                "displayLabel": "Pharmacy"
+                            },
+                            "patientName": {
+                                "displayLabel": "Jackie  Rice"
+                            },
+                            "provider": {
+                                "displayLabel": "Navitus Health Solutions"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-13-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "31.78"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "15.89"
+                            },
+                            "planPaid": {
+                                "displayLabel": "15.89"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "approved",
+                                "displayLabel": "Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336483-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336483-00"
+                            },
+                            "product": {
+                                "displayLabel": "Pharmacy"
+                            },
+                            "patientName": {
+                                "displayLabel": "Linda  Brennan"
+                            },
+                            "provider": {
+                                "displayLabel": "Navitus Health Solutions"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-13-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "13.37"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "6.68"
+                            },
+                            "planPaid": {
+                                "displayLabel": "6.69"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "approved",
+                                "displayLabel": "Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336490-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336490-00"
+                            },
+                            "product": {
+                                "displayLabel": "Pharmacy"
+                            },
+                            "patientName": {
+                                "displayLabel": "Ralph R Novak"
+                            },
+                            "provider": {
+                                "displayLabel": "Navitus Health Solutions"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-13-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "8.21"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "4.1"
+                            },
+                            "planPaid": {
+                                "displayLabel": "4.11"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "approved",
+                                "displayLabel": "Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336492-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336492-00"
+                            },
+                            "product": {
+                                "displayLabel": "Pharmacy"
+                            },
+                            "patientName": {
+                                "displayLabel": "Elaine  Nikle"
+                            },
+                            "provider": {
+                                "displayLabel": "Navitus Health Solutions"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-13-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "130.04"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "65.02"
+                            },
+                            "planPaid": {
+                                "displayLabel": "65.02"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "approved",
+                                "displayLabel": "Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001333849-00",
+                            "claimId": {
+                                "displayLabel": "219-0001333849-00"
+                            },
+                            "product": {
+                                "displayLabel": "Dental"
+                            },
+                            "patientName": {
+                                "displayLabel": "TAMMY  SWANG"
+                            },
+                            "provider": {
+                                "displayLabel": "PETER MCDONALD"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-13-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "256.0"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "0.0"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "inProcess",
+                                "displayLabel": "In Process"
+                            },
+                            "stage": {
+                                "type": "review",
+                                "displayLabel": "Review"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-17-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001337050-00",
+                            "claimId": {
+                                "displayLabel": "219-0001337050-00"
+                            },
+                            "product": {
+                                "displayLabel": "Medical"
+                            },
+                            "patientName": {
+                                "displayLabel": "Mark  Andreasen"
+                            },
+                            "provider": {
+                                "displayLabel": "David M Spritzer"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-13-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "134.0"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "0.0"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "inProcess",
+                                "displayLabel": "In Process"
+                            },
+                            "stage": {
+                                "type": "pricing",
+                                "displayLabel": "Pricing"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-17-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336469-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336469-00"
+                            },
+                            "product": {
+                                "displayLabel": "Pharmacy"
+                            },
+                            "patientName": {
+                                "displayLabel": "Kayla  Forseth"
+                            },
+                            "provider": {
+                                "displayLabel": "Navitus Health Solutions"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-12-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "27.7"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "27.7"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "approved",
+                                "displayLabel": "Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001335201-00",
+                            "claimId": {
+                                "displayLabel": "219-0001335201-00"
+                            },
+                            "product": {
+                                "displayLabel": "Medical"
+                            },
+                            "patientName": {
+                                "displayLabel": "Dan  Brennan"
+                            },
+                            "provider": {
+                                "displayLabel": "Patients Home"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-12-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "96.13"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "0.0"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "inProcess",
+                                "displayLabel": "In Process"
+                            },
+                            "stage": {
+                                "type": "pricing",
+                                "displayLabel": "Pricing"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-17-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001341828-00",
+                            "claimId": {
+                                "displayLabel": "219-0001341828-00"
+                            },
+                            "product": {
+                                "displayLabel": "Medical"
+                            },
+                            "patientName": {
+                                "displayLabel": "Addie  Larson"
+                            },
+                            "provider": {
+                                "displayLabel": "Erik Burke"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-12-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "33.0"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "0.0"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "inProcess",
+                                "displayLabel": "In Process"
+                            },
+                            "stage": {
+                                "type": "pricing",
+                                "displayLabel": "Pricing"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-19-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336489-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336489-00"
+                            },
+                            "product": {
+                                "displayLabel": "Pharmacy"
+                            },
+                            "patientName": {
+                                "displayLabel": "Dan  Brennan"
+                            },
+                            "provider": {
+                                "displayLabel": "Navitus Health Solutions"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-12-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "37.5"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "18.74"
+                            },
+                            "planPaid": {
+                                "displayLabel": "18.76"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "approved",
+                                "displayLabel": "Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336485-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336485-00"
+                            },
+                            "product": {
+                                "displayLabel": "Pharmacy"
+                            },
+                            "patientName": {
+                                "displayLabel": "Darrell  Kvernen"
+                            },
+                            "provider": {
+                                "displayLabel": "Navitus Health Solutions"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-12-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "7.33"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "7.33"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "denied",
+                                "displayLabel": "Denied"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": true,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336488-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336488-00"
+                            },
+                            "product": {
+                                "displayLabel": "Pharmacy"
+                            },
+                            "patientName": {
+                                "displayLabel": "Teresa  Carl"
+                            },
+                            "provider": {
+                                "displayLabel": "Navitus Health Solutions"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-12-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "3.38"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "3.38"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "approved",
+                                "displayLabel": "Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336474-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336474-00"
+                            },
+                            "product": {
+                                "displayLabel": "Pharmacy"
+                            },
+                            "patientName": {
+                                "displayLabel": "George  McNew"
+                            },
+                            "provider": {
+                                "displayLabel": "Navitus Health Solutions"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-12-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "11.4"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "5.69"
+                            },
+                            "planPaid": {
+                                "displayLabel": "5.71"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "approved",
+                                "displayLabel": "Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336478-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336478-00"
+                            },
+                            "product": {
+                                "displayLabel": "Pharmacy"
+                            },
+                            "patientName": {
+                                "displayLabel": "Danielle  McNew"
+                            },
+                            "provider": {
+                                "displayLabel": "Navitus Health Solutions"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-12-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "24.7"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "12.35"
+                            },
+                            "planPaid": {
+                                "displayLabel": "12.35"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "approved",
+                                "displayLabel": "Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336471-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336471-00"
+                            },
+                            "product": {
+                                "displayLabel": "Pharmacy"
+                            },
+                            "patientName": {
+                                "displayLabel": "Dennis J Bekkerus"
+                            },
+                            "provider": {
+                                "displayLabel": "Navitus Health Solutions"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-11-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "4.39"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "4.39"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "approved",
+                                "displayLabel": "Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336480-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336480-00"
+                            },
+                            "product": {
+                                "displayLabel": "Pharmacy"
+                            },
+                            "patientName": {
+                                "displayLabel": "Tammy  Elsing"
+                            },
+                            "provider": {
+                                "displayLabel": "Navitus Health Solutions"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-11-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "40.47"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "20.23"
+                            },
+                            "planPaid": {
+                                "displayLabel": "20.24"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "approved",
+                                "displayLabel": "Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001340494-00",
+                            "claimId": {
+                                "displayLabel": "219-0001340494-00"
+                            },
+                            "product": {
+                                "displayLabel": "Medical"
+                            },
+                            "patientName": {
+                                "displayLabel": "Kimberly  Wetherelt"
+                            },
+                            "provider": {
+                                "displayLabel": "Chad J Johnson"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-11-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "134.0"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "0.0"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "inProcess",
+                                "displayLabel": "In Process"
+                            },
+                            "stage": {
+                                "type": "pricing",
+                                "displayLabel": "Pricing"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-17-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001327518-00",
+                            "claimId": {
+                                "displayLabel": "219-0001327518-00"
+                            },
+                            "product": {
+                                "displayLabel": "Medical"
+                            },
+                            "patientName": {
+                                "displayLabel": "Jan  Desautel-Worner"
+                            },
+                            "provider": {
+                                "displayLabel": "Andrea Walker"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-11-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "230.0"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "0.0"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "inProcess",
+                                "displayLabel": "In Process"
+                            },
+                            "stage": {
+                                "type": "pricing",
+                                "displayLabel": "Pricing"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001335118-00",
+                            "claimId": {
+                                "displayLabel": "219-0001335118-00"
+                            },
+                            "product": {
+                                "displayLabel": "Medical"
+                            },
+                            "patientName": {
+                                "displayLabel": "Ralph R Novak"
+                            },
+                            "provider": {
+                                "displayLabel": "Terra Lynn Boettcher"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-11-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "120.0"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "0.0"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "inProcess",
+                                "displayLabel": "In Process"
+                            },
+                            "stage": {
+                                "type": "pricing",
+                                "displayLabel": "Pricing"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-17-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001323982-00",
+                            "claimId": {
+                                "displayLabel": "219-0001323982-00"
+                            },
+                            "product": {
+                                "displayLabel": "Dental"
+                            },
+                            "patientName": {
+                                "displayLabel": "Tammy  Elsing"
+                            },
+                            "provider": {
+                                "displayLabel": "Dan Eckmann"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-11-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "138.0"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "76.4"
+                            },
+                            "planPaid": {
+                                "displayLabel": "61.6"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "000069619582"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "06-19-2019"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "paid",
+                                "displayLabel": "Paid"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "EFT"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "eob": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-13-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336554-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336554-00"
+                            },
+                            "product": {
+                                "displayLabel": "Dental"
+                            },
+                            "patientName": {
+                                "displayLabel": "BRET  WHITAKER"
+                            },
+                            "provider": {
+                                "displayLabel": "JOEL D NEWTON"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-10-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "254.0"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "0.0"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "inProcess",
+                                "displayLabel": "In Process"
+                            },
+                            "stage": {
+                                "type": "review",
+                                "displayLabel": "Review"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336472-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336472-00"
+                            },
+                            "product": {
+                                "displayLabel": "Pharmacy"
+                            },
+                            "patientName": {
+                                "displayLabel": "Maria C Segoviano"
+                            },
+                            "provider": {
+                                "displayLabel": "Navitus Health Solutions"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-10-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "53.94"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "26.96"
+                            },
+                            "planPaid": {
+                                "displayLabel": "26.98"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "approved",
+                                "displayLabel": "Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001324044-00",
+                            "claimId": {
+                                "displayLabel": "219-0001324044-00"
+                            },
+                            "product": {
+                                "displayLabel": "Dental"
+                            },
+                            "patientName": {
+                                "displayLabel": "Andrew S Munsee"
+                            },
+                            "provider": {
+                                "displayLabel": "Travis (Ty) Bodily"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-10-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "1024.0"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "448.9"
+                            },
+                            "planPaid": {
+                                "displayLabel": "575.1"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "000069619576"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "06-19-2019"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "partially paid",
+                                "displayLabel": "Partially Paid"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "EFT"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "eob": true,
+                                "appeal": true,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-13-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001342347-00",
+                            "claimId": {
+                                "displayLabel": "219-0001342347-00"
+                            },
+                            "product": {
+                                "displayLabel": "Medical"
+                            },
+                            "patientName": {
+                                "displayLabel": "Dale J Beckler"
+                            },
+                            "provider": {
+                                "displayLabel": "RC Hospital And Clinics"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-10-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "154.02"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "0.0"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "inProcess",
+                                "displayLabel": "In Process"
+                            },
+                            "stage": {
+                                "type": "pricing",
+                                "displayLabel": "Pricing"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-19-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336493-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336493-00"
+                            },
+                            "product": {
+                                "displayLabel": "Pharmacy"
+                            },
+                            "patientName": {
+                                "displayLabel": "Grant  Ploss"
+                            },
+                            "provider": {
+                                "displayLabel": "Navitus Health Solutions"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-10-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "12.98"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "6.49"
+                            },
+                            "planPaid": {
+                                "displayLabel": "6.49"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "approved",
+                                "displayLabel": "Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001323958-00",
+                            "claimId": {
+                                "displayLabel": "219-0001323958-00"
+                            },
+                            "product": {
+                                "displayLabel": "Dental"
+                            },
+                            "patientName": {
+                                "displayLabel": "ETHAN C MCLAUGHLIN"
+                            },
+                            "provider": {
+                                "displayLabel": "JACOB TAYLOR"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-10-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "268.0"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "0.0"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "inProcess",
+                                "displayLabel": "In Process"
+                            },
+                            "stage": {
+                                "type": "review",
+                                "displayLabel": "Review"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-13-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336470-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336470-00"
+                            },
+                            "product": {
+                                "displayLabel": "Pharmacy"
+                            },
+                            "patientName": {
+                                "displayLabel": "Carnessa  Hunt"
+                            },
+                            "provider": {
+                                "displayLabel": "Navitus Health Solutions"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-10-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "8.9"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "4.45"
+                            },
+                            "planPaid": {
+                                "displayLabel": "4.45"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "approved",
+                                "displayLabel": "Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336475-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336475-00"
+                            },
+                            "product": {
+                                "displayLabel": "Pharmacy"
+                            },
+                            "patientName": {
+                                "displayLabel": "Dale  Beckler"
+                            },
+                            "provider": {
+                                "displayLabel": "Navitus Health Solutions"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-10-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "3.25"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "1.62"
+                            },
+                            "planPaid": {
+                                "displayLabel": "1.63"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "approved",
+                                "displayLabel": "Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336481-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336481-00"
+                            },
+                            "product": {
+                                "displayLabel": "Pharmacy"
+                            },
+                            "patientName": {
+                                "displayLabel": "Nichole  Cron"
+                            },
+                            "provider": {
+                                "displayLabel": "Navitus Health Solutions"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-10-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "6.6"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "6.6"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "approved",
+                                "displayLabel": "Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336482-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336482-00"
+                            },
+                            "product": {
+                                "displayLabel": "Pharmacy"
+                            },
+                            "patientName": {
+                                "displayLabel": "Joel M Molsbarger"
+                            },
+                            "provider": {
+                                "displayLabel": "Navitus Health Solutions"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-10-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "15.18"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "7.59"
+                            },
+                            "planPaid": {
+                                "displayLabel": "7.59"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "approved",
+                                "displayLabel": "Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336494-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336494-00"
+                            },
+                            "product": {
+                                "displayLabel": "Pharmacy"
+                            },
+                            "patientName": {
+                                "displayLabel": "Jennifer  Mascorro"
+                            },
+                            "provider": {
+                                "displayLabel": "Navitus Health Solutions"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-10-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "20.88"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "20.88"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "approved",
+                                "displayLabel": "Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001327447-00",
+                            "claimId": {
+                                "displayLabel": "219-0001327447-00"
+                            },
+                            "product": {
+                                "displayLabel": "Medical"
+                            },
+                            "patientName": {
+                                "displayLabel": "Stacy  Byrne"
+                            },
+                            "provider": {
+                                "displayLabel": "John Reeves"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-10-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "190.0"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "190.0"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "denied",
+                                "displayLabel": "Denied"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": true,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336529-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336529-00"
+                            },
+                            "product": {
+                                "displayLabel": "Dental"
+                            },
+                            "patientName": {
+                                "displayLabel": "JACKIE  RICE"
+                            },
+                            "provider": {
+                                "displayLabel": "JOHN TINGEY"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-10-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "223.0"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "0.0"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "inProcess",
+                                "displayLabel": "In Process"
+                            },
+                            "stage": {
+                                "type": "review",
+                                "displayLabel": "Review"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-13-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336552-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336552-00"
+                            },
+                            "product": {
+                                "displayLabel": "Dental"
+                            },
+                            "patientName": {
+                                "displayLabel": "Carnessa  Hunt"
+                            },
+                            "provider": {
+                                "displayLabel": "Brian Tingey"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-10-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "83.0"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "42.4"
+                            },
+                            "planPaid": {
+                                "displayLabel": "40.6"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "approved",
+                                "displayLabel": "Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001334268-00",
+                            "claimId": {
+                                "displayLabel": "219-0001334268-00"
+                            },
+                            "product": {
+                                "displayLabel": "Medical"
+                            },
+                            "patientName": {
+                                "displayLabel": "Kaley  Haynes"
+                            },
+                            "provider": {
+                                "displayLabel": "Garret Swenson"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-10-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "45.0"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "0.0"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "inProcess",
+                                "displayLabel": "In Process"
+                            },
+                            "stage": {
+                                "type": "pricing",
+                                "displayLabel": "Pricing"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-17-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001338034-00",
+                            "claimId": {
+                                "displayLabel": "219-0001338034-00"
+                            },
+                            "product": {
+                                "displayLabel": "Medical"
+                            },
+                            "patientName": {
+                                "displayLabel": "Kenya T Arends"
+                            },
+                            "provider": {
+                                "displayLabel": "Gregory J Bjerke"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-08-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "157.0"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "157.0"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "denied",
+                                "displayLabel": "Denied"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "eob": true,
+                                "appeal": true,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-18-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001327231-00",
+                            "claimId": {
+                                "displayLabel": "219-0001327231-00"
+                            },
+                            "product": {
+                                "displayLabel": "Medical"
+                            },
+                            "patientName": {
+                                "displayLabel": "Kenya T Arends"
+                            },
+                            "provider": {
+                                "displayLabel": "Su-Ann Ng"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-08-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "34.0"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "34.0"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "denied",
+                                "displayLabel": "Denied"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "eob": true,
+                                "appeal": true,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001340011-00",
+                            "claimId": {
+                                "displayLabel": "219-0001340011-00"
+                            },
+                            "product": {
+                                "displayLabel": "Medical"
+                            },
+                            "patientName": {
+                                "displayLabel": "Richard  Sabin"
+                            },
+                            "provider": {
+                                "displayLabel": "Jonathan D Myers"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-08-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "259.0"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "0.0"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "inProcess",
+                                "displayLabel": "In Process"
+                            },
+                            "stage": {
+                                "type": "pricing",
+                                "displayLabel": "Pricing"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-17-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001324509-00",
+                            "claimId": {
+                                "displayLabel": "219-0001324509-00"
+                            },
+                            "product": {
+                                "displayLabel": "Medical"
+                            },
+                            "patientName": {
+                                "displayLabel": "Bruce A Jacobson"
+                            },
+                            "provider": {
+                                "displayLabel": "Vanessa Skolness"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-07-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "314.0"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "29.05"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "56.99"
+                            },
+                            "planPaid": {
+                                "displayLabel": "227.96"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "approved",
+                                "displayLabel": "Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-13-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001333908-00",
+                            "claimId": {
+                                "displayLabel": "219-0001333908-00"
+                            },
+                            "product": {
+                                "displayLabel": "Medical"
+                            },
+                            "patientName": {
+                                "displayLabel": "Bruce A Jacobson"
+                            },
+                            "provider": {
+                                "displayLabel": "Sanford Mayville"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-07-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "160.0"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "0.0"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "inProcess",
+                                "displayLabel": "In Process"
+                            },
+                            "stage": {
+                                "type": "pricing",
+                                "displayLabel": "Pricing"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-17-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001326193-00",
+                            "claimId": {
+                                "displayLabel": "219-0001326193-00"
+                            },
+                            "product": {
+                                "displayLabel": "Medical"
+                            },
+                            "patientName": {
+                                "displayLabel": "Paisley  Verbrugge"
+                            },
+                            "provider": {
+                                "displayLabel": "Ryan Q Turner"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-07-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "229.26"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "20.88"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "208.38"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "partially approved",
+                                "displayLabel": "Partially Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": true,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-13-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001326232-00",
+                            "claimId": {
+                                "displayLabel": "219-0001326232-00"
+                            },
+                            "product": {
+                                "displayLabel": "Medical"
+                            },
+                            "patientName": {
+                                "displayLabel": "Ryan  Fiala"
+                            },
+                            "provider": {
+                                "displayLabel": "Bryan C Mason"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-07-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "134.0"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "134.0"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "denied",
+                                "displayLabel": "Denied"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": true,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-13-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001336484-00",
+                            "claimId": {
+                                "displayLabel": "219-0001336484-00"
+                            },
+                            "product": {
+                                "displayLabel": "Pharmacy"
+                            },
+                            "patientName": {
+                                "displayLabel": "Adolfo  Juarez"
+                            },
+                            "provider": {
+                                "displayLabel": "Navitus Health Solutions"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-07-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "32.61"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "0.0"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "32.61"
+                            },
+                            "planPaid": {
+                                "displayLabel": "0.0"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "approved",
+                                "displayLabel": "Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-14-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001320381-00",
+                            "claimId": {
+                                "displayLabel": "219-0001320381-00"
+                            },
+                            "product": {
+                                "displayLabel": "Medical"
+                            },
+                            "patientName": {
+                                "displayLabel": "Kari LYNN Franks"
+                            },
+                            "provider": {
+                                "displayLabel": "Jonathan L Bingham"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-06-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "309.0"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "61.8"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "222.59"
+                            },
+                            "planPaid": {
+                                "displayLabel": "24.61"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "completed",
+                                "displayLabel": "Completed"
+                            },
+                            "stage": {
+                                "type": "approved",
+                                "displayLabel": "Approved"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-12-2019"
+                            }
+                        },
+                        {
+                            "id": "219-0001326262-00",
+                            "claimId": {
+                                "displayLabel": "219-0001326262-00"
+                            },
+                            "product": {
+                                "displayLabel": "Medical"
+                            },
+                            "patientName": {
+                                "displayLabel": "Michael  Swang"
+                            },
+                            "provider": {
+                                "displayLabel": "Natalie Gleason"
+                            },
+                            "dateOfService": {
+                                "displayLabel": "06-06-2019"
+                            },
+                            "amountBilled": {
+                                "displayLabel": "123.0"
+                            },
+                            "discountAdjustment": {
+                                "displayLabel": "3.19"
+                            },
+                            "yourResponsibility": {
+                                "displayLabel": "0.0"
+                            },
+                            "planPaid": {
+                                "displayLabel": "119.81"
+                            },
+                            "checkNumbers": {
+                                "displayLabel": "-"
+                            },
+                            "checkIssueDate": {
+                                "displayLabel": "-"
+                            },
+                            "state": {
+                                "type": "inProcess",
+                                "displayLabel": "In Process"
+                            },
+                            "stage": {
+                                "type": "review",
+                                "displayLabel": "Review"
+                            },
+                            "paymentMode": {
+                                "displayLabel": "-"
+                            },
+                            "ineligibleAmount": {
+                                "displayLabel": "0.0"
+                            },
+                            "quickActionsStatus": {
+                                "download": true,
+                                "inquiry": true,
+                                "document": true,
+                                "appeal": false,
+                                "eop": false
+                            },
+                            "recievedDate": {
+                                "displayLabel": "06-13-2019"
+                            }
+                        }
+                    ]
