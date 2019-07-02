@@ -6,6 +6,13 @@ public class QuickActionsStatus {
 	Boolean document;
 	Boolean appeal;
 	Boolean eop;
+	Boolean eob ;
+	public Boolean getEob() {
+		return eob;
+	}
+	public void setEob(Boolean eob) {
+		this.eob = eob;
+	}
 	public Boolean getDownload() {
 		return download;
 	}

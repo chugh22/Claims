@@ -11,7 +11,7 @@ import pojo.Info;
 public class ClaimsObjectCreation {
 	public static void main(String[] args) {
 		try {
-			byte[] jsonData = Files.readAllBytes(Paths.get("smalldata.json")) ;
+			byte[] jsonData = Files.readAllBytes(Paths.get("data.json")) ;
 			ObjectMapper objectMapper = new ObjectMapper() ;
 			//Claim claim = objectMapper.readValue(jsonData, Claim.class) ;
 			Info inf = objectMapper.readValue(jsonData, Info.class) ;

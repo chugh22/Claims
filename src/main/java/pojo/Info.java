@@ -16,7 +16,7 @@ public class Info {
 	public String toString() {
 		String s = "" ;
 		for(int i = 0 ; i < info.length ; i++){
-			s += info[i].id + " " ;
+			s += info[i].id + " \n" ;
 		}
 		return s ;
 	}
