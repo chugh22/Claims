@@ -1,0 +1,191 @@
+"params": [
+	{
+		"id": "claimId",
+		"order": 1,
+		"type": "text",
+		"displayLabel": "Claim ID",
+		"hasFilter": false,
+		"hasSort": true,
+		"actionRef": "claimDetails"
+	},
+	{
+		"id": "product",
+		"order": 2,
+		"type": "text",
+		"displayLabel": "Type",
+		"hasFilter": false,
+		"hasSort": false
+	},
+	{
+		"id": "patientName",
+		"order": 3,
+		"type": "text",
+		"displayLabel": "Patient Name",
+		"hasFilter": false,
+		"hasSort": true
+	},
+	{
+		"id": "provider",
+		"order": 4,
+		"type": "text",
+		"displayLabel": "Provider",
+		"hasFilter": false,
+		"hasSort": true
+	},
+	{
+		"id": "dateOfService",
+		"order": 5,
+		"type": "text",
+		"displayLabel": "Date of Service",
+		"hasFilter": false,
+		"hasSort": true
+	},
+	{
+		"id": "amountBilled",
+		"order": 6,
+		"type": "currency",
+		"displayLabel": "Amount Billed",
+		"hasFilter": false,
+		"hasSort": true
+	},
+	{
+		"id": "discountAdjustment",
+		"order": 7,
+		"type": "currency",
+		"displayLabel": "Discounts/<br/>Adjustments",
+		"hasFilter": false,
+		"hasSort": true
+	},
+	{
+		"id": "yourResponsibility",
+		"order": 9,
+		"type": "currency",
+		"displayLabel": "Member Responsibility",
+		"hasFilter": false,
+		"hasSort": true
+	},
+	{
+		"id": "ineligibleAmount",
+		"order": 8,
+		"type": "currency",
+		"displayLabel": "Ineligible Charge",
+		"hasFilter": false,
+		"hasSort": true
+	},
+	{
+		"id": "planPaid",
+		"order": 10,
+		"type": "currency",
+		"displayLabel": "Plan Paid",
+		"hasFilter": false,
+		"hasSort": true
+	},
+	{
+		"id": "checkNumbers",
+		"order": 11,
+		"type": "text",
+		"displayLabel": "Check Numbers",
+		"hasFilter": false,
+		"hasSort": false
+	},
+	{
+		"id": "checkIssueDate",
+		"order": 12,
+		"type": "text",
+		"displayLabel": "Paid Date",
+		"hasFilter": false,
+		"hasSort": false
+	},
+	{
+		"id": "state",
+		"order": 12,
+		"type": "text",
+		"displayLabel": "State",
+		"hasFilter": true,
+		"hasSort": false,
+		"filterOptions": [
+			{
+				"id": "all",
+				"displayLabel": "All",
+				"order": 0,
+				"value": "all"
+			},
+			{
+				"id": "completed",
+				"displayLabel": "Completed",
+				"order": 0,
+				"value": "completed"
+			},
+			{
+				"id": "inProcess",
+				"displayLabel": "In Process",
+				"order": 0,
+				"value": "inProcess"
+			}
+		]
+	},
+	{
+		"id": "stage",
+		"order": 13,
+		"type": "text",
+		"displayLabel": "Status",
+		"hasFilter": true,
+		"hasSort": false,
+		"filterOptions": [
+			{
+				"id": "all",
+				"displayLabel": "All",
+				"order": 0,
+				"value": "all"
+			},
+			{
+				"id": "additinalDocRequired",
+				"displayLabel": "Additional document required",
+				"order": 1,
+				"value": "additinalDocRequired"
+			},
+			{
+				"id": "approved",
+				"displayLabel": "Approved",
+				"order": 2,
+				"value": "approved"
+			},
+			{
+				"id": "denied",
+				"displayLabel": "Denied",
+				"order": 3,
+				"value": "denied"
+			},
+			{
+				"id": "paid",
+				"displayLabel": "Paid",
+				"order": 4,
+				"value": "paid"
+			},
+			{
+				"id": "partiallyApproved",
+				"displayLabel": "Partially Approved",
+				"order": 5,
+				"value": "partiallyApproved"
+			},
+			{
+				"id": "partiallyPaid",
+				"displayLabel": "Partially Paid",
+				"order": 6,
+				"value": "partiallyPaid"
+			},
+			{
+				"id": "pricing",
+				"displayLabel": "Pricing",
+				"order": 7,
+				"value": "pricing"
+			},
+			{
+				"id": "review",
+				"displayLabel": "Review",
+				"order": 8,
+				"value": "review"
+			}
+		]
+	}
+]
