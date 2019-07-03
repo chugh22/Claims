@@ -1,0 +1,6 @@
+package bo;
+
+public enum Status {
+	COMPLETED, IN_PROCESS, REVIEW,
+	APPROVED, NOT_APPROVED,PRICING,DENIED
+}
