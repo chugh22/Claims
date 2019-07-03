@@ -25,16 +25,12 @@
     <version>5.3.1.Final</version>  
 </dependency>  
       
-<dependency>  
-    <groupId>com.oracle</groupId>  
-    <artifactId>ojdbc14</artifactId>  
-    <version>10.2.0.4.0</version>  
-</dependency>  
+  
 <dependency>
 	<groupId>com.fasterxml.jackson.core</groupId>
 	<artifactId>jackson-databind</artifactId>
 	<version>[2.9.9,)</version>
-<<<<<<< HEAD
+
 </dependency>
 <!-- https://mvnrepository.com/artifact/org.hibernate.javax.persistence/hibernate-jpa-2.1-api -->
 <dependency>
@@ -47,8 +43,8 @@
     <groupId>mysql</groupId>
     <artifactId>mysql-connector-java</artifactId>
     <version>8.0.16</version>
-=======
->>>>>>> a7e510a144fc803474528e68316402b2527f6a2c
+
+
 </dependency>
   </dependencies>
   
