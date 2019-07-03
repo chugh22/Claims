@@ -8,8 +8,8 @@ public class Claims {
 	Provider provider;
 	Date dateOfService;
 	double amountBilled;
-	Status state;
-	Status stage;
+	String state;
+	String stage;
 	public String getId() {
 		return id;
 	}
@@ -40,16 +40,16 @@ public class Claims {
 	public void setAmountBilled(double amountBilled) {
 		this.amountBilled = amountBilled;
 	}
-	public Status getState() {
+	public String getState() {
 		return state;
 	}
-	public void setState(Status state) {
+	public void setState(String state) {
 		this.state = state;
 	}
-	public Status getStage() {
+	public String getStage() {
 		return stage;
 	}
-	public void setStage(Status stage) {
+	public void setStage(String stage) {
 		this.stage = stage;
 	}
 	
